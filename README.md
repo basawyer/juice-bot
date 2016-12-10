@@ -1,0 +1,13 @@
+### INSTALL
+`gem install bundler`
+`bundle install`
+
+### SET ENV VARIABLES
+TWITTER_CONSUMER_KEY
+TWITTER_CONSUMER_SECRET
+TWITTER_ACCESS_TOKEN
+TWITTER_ACCESS_SECRET
+
+### RUNNING
+`./search_and_reply.rb`
+
